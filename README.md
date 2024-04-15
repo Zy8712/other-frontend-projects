@@ -1,40 +1,8 @@
-# other-frontend-projects
-My work on frontend projects/challenges from various other sites (besides Frontend Mentor). 
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<h3>Sites</h3>
+Currently, two official plugins are available:
 
-Frontends Projects: https://frontendsprojects.com/projects/
-
-Codewell Projects: https://www.codewell.cc/challenges
-
-Tapioca: https://www.trytapioca.com/ 
-
-Javascript30: https://javascript30.com/
-
-CodePen: https://codepen.io/challenges
-
-CSS Battle: https://cssbattle.dev/
-
-freeCodeCamp: https://www.freecodecamp.org/
-
-CodeWars: https://www.codewars.com/collections/coding-challenges
-
-devChallenges: https://devchallenges.io/challenges
-
-treehouse: https://teamtreehouse.com/
-
-coderbyte: https://coderbyte.com/challenges
-
-FrontendPro: https://www.frontendpro.dev/
-
-Frontend Practice: https://www.frontendpractice.com/
-
-Codier: https://codier.io/
-
-<br>
-<h3>GitHub Repos</h3>
-
-Ace The Frontend: https://github.com/surajm-333/Ace-The-FrontEnd
-
-Programming Challenges: https://github.com/michelbernardods/programming-challenges
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
